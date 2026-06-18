@@ -6,7 +6,7 @@
 <br />
 
 [![Live](https://img.shields.io/badge/live-vexr.dev-0F766E?style=flat-square&logo=vercel&logoColor=white)](https://vexr.dev)
-[![Stars](https://img.shields.io/github/stars/vexr-dev/vexr.dev?style=flat-square&color=0F766E)](https://github.com/vexr-dev/vexr.dev/stargazers)
+[![Stars](https://img.shields.io/github/stars/nerkoux/vexr.dev?style=flat-square&color=0F766E)](https://github.com/nerkoux/vexr.dev/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-0F766E?style=flat-square)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=nextdotjs)](https://nextjs.org)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com)
