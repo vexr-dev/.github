@@ -39,7 +39,7 @@ Here is a step-by-step walkthrough to get your project online.
 
 Go to the [vexr.dev Homepage](https://vexr.dev) and search for your project's desired name. The system checks against reserved domains and active registrations to ensure the name is available.
 
-![Step 1: Check Availability](https://raw.githubusercontent.com/vexr-dev/vexr.dev/main/assets/homepage.png)
+![Step 1: Check Availability](https://raw.githubusercontent.com/nerkoux/vexr.dev/main/assets/homepage.png)
 
 *Type your project name and click **Claim Now** to proceed.*
 
@@ -49,7 +49,7 @@ Go to the [vexr.dev Homepage](https://vexr.dev) and search for your project's de
 
 Authenticate with your GitHub account. To claim and maintain a subdomain, we ask for a repository star on [vexr-dev/vexr.dev](https://github.com/vexr-dev/vexr.dev) to keep the project sustainable.
 
-![Step 2: Authenticate & Verify Star](https://raw.githubusercontent.com/vexr-dev/vexr.dev/main/assets/overview.png)
+![Step 2: Authenticate & Verify Star](https://raw.githubusercontent.com/nerkoux/vexr.dev/main/assets/overview.png)
 
 *Click **Verify Star** to check your star status.*
 
@@ -63,7 +63,7 @@ Authenticate with your GitHub account. To claim and maintain a subdomain, we ask
 
 Once onboarding is complete, you will be redirected to the dashboard. Under the **DNS Management** tab, you can start pointing your subdomain to your servers (Vercel, Netlify, Render, AWS, VPS, etc.).
 
-![Step 3: DNS Management](https://raw.githubusercontent.com/vexr-dev/vexr.dev/main/assets/dnsmanagement.png)
+![Step 3: DNS Management](https://raw.githubusercontent.com/nerkoux/vexr.dev/main/assets/dnsmanagement.png)
 
 #### DNS Capabilities:
 - **Proxy Toggle**: A click toggle button lets you enable or disable Cloudflare's edge proxying.
@@ -76,7 +76,7 @@ Once onboarding is complete, you will be redirected to the dashboard. Under the 
 
 If you no longer need your subdomain or want to register a different one, navigate to **Settings** and release the domain. This immediately removes all DNS configurations and frees up the subdomain for other developers.
 
-![Step 4: Release Domain](https://raw.githubusercontent.com/vexr-dev/vexr.dev/main/assets/settings.png)
+![Step 4: Release Domain](https://raw.githubusercontent.com/nerkoux/vexr.dev/main/assets/settings.png)
 
 ---
 
